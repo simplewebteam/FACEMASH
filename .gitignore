@@ -29,7 +29,6 @@ gulpfile.js
 /phpunit.xml
 /server.php
 /resources/views/pages/projects
-/resources/views/partials
 /resources/views/vendor
 /.idea
 /.DS_Store
